@@ -1,0 +1,15 @@
+C:\CSharp\CSharp\FirstProject\bin\Debug\net9.0\FirstProject.exe
+C:\CSharp\CSharp\FirstProject\bin\Debug\net9.0\FirstProject.deps.json
+C:\CSharp\CSharp\FirstProject\bin\Debug\net9.0\FirstProject.runtimeconfig.json
+C:\CSharp\CSharp\FirstProject\bin\Debug\net9.0\FirstProject.dll
+C:\CSharp\CSharp\FirstProject\bin\Debug\net9.0\FirstProject.pdb
+C:\CSharp\CSharp\FirstProject\obj\Debug\net9.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\CSharp\FirstProject\obj\Debug\net9.0\FirstProject.AssemblyInfoInputs.cache
+C:\CSharp\CSharp\FirstProject\obj\Debug\net9.0\FirstProject.AssemblyInfo.cs
+C:\CSharp\CSharp\FirstProject\obj\Debug\net9.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\CSharp\CSharp\FirstProject\obj\Debug\net9.0\FirstProject.sourcelink.json
+C:\CSharp\CSharp\FirstProject\obj\Debug\net9.0\FirstProject.dll
+C:\CSharp\CSharp\FirstProject\obj\Debug\net9.0\refint\FirstProject.dll
+C:\CSharp\CSharp\FirstProject\obj\Debug\net9.0\FirstProject.pdb
+C:\CSharp\CSharp\FirstProject\obj\Debug\net9.0\FirstProject.genruntimeconfig.cache
+C:\CSharp\CSharp\FirstProject\obj\Debug\net9.0\ref\FirstProject.dll
